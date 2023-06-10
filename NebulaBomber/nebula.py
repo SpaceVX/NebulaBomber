@@ -1,15 +1,15 @@
 """
 ╔═════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                 ║
-║                                   NEBULA bomber                                  ║
+║                                   NEBULA bomber                                 ║
 ║  Author:                                                                        ║
-║  https://github.com/SpaceVX                                                      ║
+║  https://github.com/SpaceVX                                                     ║
 ║                                                                                 ║
 ║  The author of this program is not responsible for its use!                     ║
 ║  When posting this code on other resources, please indicate the author!         ║
 ║                                                                                 ║
 ║                               All rights reserved.                              ║
-║                            Copyright (C) 2023 un1cum                            ║
+║                                 Copyright (C) 2023                              ║
 ║                                                                                 ║
 ╚═════════════════════════════════════════════════════════════════════════════════╝
 """
